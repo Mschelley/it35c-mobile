@@ -7,7 +7,7 @@ const Template: React.FC = () => {
               <IonToolbar>
                   <IonButtons>
                       <IonMenuButton ></IonMenuButton>
-                  <IonTitle>Template</IonTitle>
+                  <IonTitle>Feed</IonTitle>
               </IonButtons>
 
           </IonToolbar>
